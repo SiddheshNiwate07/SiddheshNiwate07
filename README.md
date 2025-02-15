@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhesh Niwate</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **m**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **siddhesh02niwate@gmail.com**
 
